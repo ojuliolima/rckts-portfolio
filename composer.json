@@ -1,0 +1,13 @@
+{
+    "name": "jclima/portfolio",
+    "type": "project",
+    "require": {
+        "simple-icons/simple-icons": "^13.14"
+    },
+    "authors": [
+        {
+            "name": "JULIO CESAR ALVES DE LIMA",
+            "email": "jclima@notredamecampinas.net.br"
+        }
+    ]
+}
